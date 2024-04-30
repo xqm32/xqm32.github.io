@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://xqm32.org/"
+languageCode = "zh-cn"
+title = "Qiming's Blog"
+theme = "hugo-xmin"
